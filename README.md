@@ -1,4 +1,4 @@
-# CIR2_project
+# Web Streaming Platform - Projet de fin de deuxième année à l'ISEN Yncrea Ouest (école d'ingénieur à Carquefou)
 
 [DOCUMENTATION API](https://www.postman.com/allanff/workspace/projet-cir2/api/7798c83f-7923-4d6e-88a4-d0a4d19598fe/definition/188517ec-2a7c-4a42-b41e-d47fbeab8b2d)
 ## Installation du projet en local (WSL Debian)
@@ -50,5 +50,3 @@ pip install psycopg2`
 - Sortir de l'invite de commande postgresql `\q`
 - Lancer le script `psql -U admin rythmic < insert/fill.sql`
 - (POUR TESTS UNIQUEMENT) Executer `psql dev_db postgres` `\i SQL/data.sql`
-
-## Insérer des valeurs dans la base de données
